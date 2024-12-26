@@ -1,0 +1,45 @@
+/* General Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #00FF00 0%, #FF0000 100%);
+  color: #333;
+  line-height: 1.6;
+}
+
+h1, h2 {
+  color: #fff;
+}
+
+.centered {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.content {
+  margin: 20px auto;
+  width: 80%;
+  max-width: 800px;
+}
+
+hr {
+  border: 1px solid #fff;
+  margin: 20px 0;
+}
+
+ul, ol {
+  padding-left: 20px;
+}
+
+img {
+  border-radius: 10px;
+}
+
+/* Footer Styles */
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.1);
+  color: #fff;
+}
