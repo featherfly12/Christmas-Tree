@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Decorating a Christmas Tree</title>
+</head>
+
+<body>
+   <div style = "text-align: center;">
+     <body style="background: #00FF00;"">
+  <h1>Decorating a Christmas Tree!</h1>
+     <h2>By Faye Yang</h2>
+         <img src="https://assets.onecompiler.app/43485kkwg/4347z94n7/8642_christmas_tree_30x30.jpg" width="250" height="250">
+       <div style = "text-align: left;">
+       <h3>Materials:</h3>
+       <h3>1. Tree</h3>
+       <h3>2. Tinsel</h3>
+       <h3>3. Ornaments</h3>
+       <h3>4. Lights</h3>
+            <div style = "text-align: left;">
+            <hr>
+      <h3>Wrapping Tinsel</h3>
+           <h3>1. After setting up the tree, take out the tinsel</h3>
+           <h3>2. Untangle the tinsel</h3>
+           <h3>3. Starting from the top, slowly wrap the tinsel around the tree</h3>
+           <h3>4. Make sure the spaces are as even as possible</h3>
+<hr>
+<div style = "text-align: left;">
+                    <h3>Add Ornaments</h3>
+                    <h3>1. Bend the branches to make a slight hook</h3>
+                    <h3>2. Tie the ornament around the hook</h3>
+                    <h3>3. Spread out ornaments</h3>
+                    <h3>4. Add more until satisfied</h3>
+<hr>
+<div style = "text-align: left;">
+      <h3>Adding Lights</h3>
+           <h3>1. Untangle lights</h3>
+           <h3>2. Starting from the top, slowly wrap the lights around the tree</h3>
+           <h3>3. Make sure the plug is on the bottom</h3>
+          <h3>4. Once done, plug in lights!</h3>
+
+<hr>
+                     <div style = "text-align: left;">
+                    <h1>Merry Christmas and Happy Holidays!</h1>
+</html>
